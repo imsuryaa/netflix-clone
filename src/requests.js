@@ -1,4 +1,4 @@
-const API_KEY = process.env.REACT_APP_API_KEY
+const API_KEY = "fef477e98a8c4c16a65b4ca7186eb891"
 
 // URL end points
 const requests = {
