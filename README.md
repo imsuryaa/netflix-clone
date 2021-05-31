@@ -1,6 +1,6 @@
 # Netflix Clone - React and Firebase
 
-App Link --> [Netflix Clone](https://netflix-clone-1c922.web.app).
+Demo -> [Netflix Clone](https://netflix-clone-1c922.web.app).
 
 ## To run this project
 
